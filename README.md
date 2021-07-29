@@ -1,4 +1,7 @@
 # Path-Traversal
+
+"Traverser.java" is where "main" is
+
 A program to find the path of least resistance across a topographical map
 
 The purpose of the program is to find a path across a topographical map that takes the least amount of energy - ie. least resistance.
